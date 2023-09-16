@@ -1,0 +1,77 @@
+.one{
+    color: white;
+    font-style:inherit;
+}
+li,h1,ul{
+    display: inline;
+}
+li{
+    color:white;
+}
+ul{
+    margin-left: 20%;
+}
+li:hover{
+    color: blueviolet;
+}
+.two{
+    color: aqua;
+}
+p{
+    padding-left: 100px;
+    font-style: italic;
+    color: silver;
+
+}
+button:hover{
+    color: blue;
+}
+.three{
+    padding-left:20px ;
+    color: white;
+}
+fieldset{
+    width: 10px;
+    padding-left: 50px;
+}
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+        
+        .SERVICE-section {
+            text-align: center;
+        }
+        
+        .SERVICE {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #06051ee0;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .SERVICE h2 {
+            font-size: 24px;
+            color: #0e74ea;
+        }
+        
+        .SERVICE p {
+            font-size: 16px;
+            color: #777;
+        }
+    </style>
+
+
+    
+
